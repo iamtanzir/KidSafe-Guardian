@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Safe Next Gen</string>
+    <string name="device_admin_description">Enables advanced protection, blocking unauthorized uninstallation of Safe Next Gen Safe DNS filtering.</string>
+    <string name="accessibility_service_description">Mr. Robot System Service for 7-second app delay and Reels blocking.</string>
+</resources>

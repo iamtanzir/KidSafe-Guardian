@@ -1,0 +1,6 @@
+{
+  "name": "Safe Next Gen",
+  "description": "পরবর্তী প্রজন্মের জন্য ১০০% নিরাপদ ও হালাল ইন্টারনেট, শর্ট-ফর্ম কনটেন্ট (Reels/Shorts) ব্লকার, এবং ডিজিটাল আসক্তি নিরাময় প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

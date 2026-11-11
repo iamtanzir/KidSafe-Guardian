@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Purple/Blue Left Arc -->
+    <path
+        android:strokeColor="#635BFF"
+        android:strokeWidth="12"
+        android:strokeLineCap="round"
+        android:pathData="M 63,30 A 26,26 0 1,0 63,78" />
+        
+    <!-- Purple/Blue Head -->
+    <path
+        android:fillColor="#635BFF"
+        android:pathData="M28,54 m-10,0 a10,10 0 1,1 20,0 a10,10 0 1,1 -20,0" />
+
+    <!-- Green Right Arc -->
+    <path
+        android:strokeColor="#45C493"
+        android:strokeWidth="12"
+        android:strokeLineCap="round"
+        android:pathData="M 60.5,38 A 16,16 0 0,1 60.5,70" />
+        
+    <!-- Green Head -->
+    <path
+        android:fillColor="#45C493"
+        android:pathData="M76.5,54 m-8,0 a8,8 0 1,1 16,0 a8,8 0 1,1 -16,0" />
+
+</vector>
